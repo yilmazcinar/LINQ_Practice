@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\bin\Debug\net8.0\LİNQ_Practice.exe
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\bin\Debug\net8.0\LİNQ_Practice.deps.json
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\bin\Debug\net8.0\LİNQ_Practice.runtimeconfig.json
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\bin\Debug\net8.0\LİNQ_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\bin\Debug\net8.0\LİNQ_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\refint\LİNQ_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\LİNQ_Practice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\LİNQ_Practice\LİNQ_Practice\obj\Debug\net8.0\ref\LİNQ_Practice.dll
